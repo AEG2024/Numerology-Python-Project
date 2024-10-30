@@ -1,3 +1,32 @@
-Numerology Read Me File
+Numerology GUI Program
 
-My project consists of building a numerology GUI that takes your full name and birthday, and turns it into a numerology report of a person’s: Life path number, their expression number, soul urge number, and their personality number. After they reveal their (4) numbers, there is a brief description that pairs along with each number to give a more detailed explanation of what is the meaning behind the number that they generated. It is designed to be simple, straightforward, and easy to understand. It is written in python code. I created a more colorful and whimsical GUI to add to the ‘mystical arts’ effect.  I used Visual Studio Code and tkinter to generate the code, and added black for PEP8 compliance. The font has been made larger and the window boxes have been made larger to accomodate the larger text and more information. 
+Overview
+
+This project is a numerology GUI that provides a comprehensive numerology report based on a user’s full name and birth date. It generates four core numerology numbers and provides a brief description for each, helping users understand the meanings and insights behind their unique numbers.
+
+Features
+Calculates and displays:
+Life Path Number
+Expression Number
+Soul Urge Number
+Personality Number
+Brief descriptions are included with each numerology number, offering users a deeper understanding of their numerology results.
+A colorful, whimsical GUI that reflects the mystical arts theme, designed for simplicity and ease of use.
+Larger fonts and window dimensions for better readability and accommodation of detailed information.
+Tech Stack
+Python for program logic
+Tkinter for GUI design
+Visual Studio Code as the development environment
+Black for PEP8 code formatting and compliance
+Screenshot
+
+##################
+
+Installation & Usage
+Clone the repository.
+Ensure you have Python and Tkinter installed.
+Run the program:
+bash
+Copy code
+python numerology.py
+Enter your name and birthdate in the GUI and receive your numerology report instantly.
