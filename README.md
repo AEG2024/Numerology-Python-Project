@@ -9,7 +9,10 @@ Calculates and displays:
 *Life Path Number
 *Expression Number
 *Soul Urge Number
-*Personality Number
+*Personal Number
+
+
+
 Brief descriptions are included with each numerology number, offering users a deeper understanding of their numerology results.
 A colorful, whimsical GUI that reflects the mystical arts theme, designed for simplicity and ease of use.
 Larger fonts and window dimensions for better readability and accommodation of detailed information.
@@ -20,7 +23,8 @@ Visual Studio Code as the development environment
 Black for PEP8 code formatting and compliance
 Screenshot
 
-##################
+(https://github.com/user-attachments/assets/64c8f45f-7ecb-48a7-8c42-679a32308791)
+
 
 Installation & Usage
 Clone the repository.
