@@ -6,10 +6,10 @@ This project is a numerology GUI that provides a comprehensive numerology report
 
 Features
 Calculates and displays:
-Life Path Number
-Expression Number
-Soul Urge Number
-Personality Number
+*Life Path Number
+*Expression Number
+*Soul Urge Number
+*Personality Number
 Brief descriptions are included with each numerology number, offering users a deeper understanding of their numerology results.
 A colorful, whimsical GUI that reflects the mystical arts theme, designed for simplicity and ease of use.
 Larger fonts and window dimensions for better readability and accommodation of detailed information.
